@@ -1,0 +1,5 @@
+# Versiones probadas con Python 3.13 (2026-10-09). Fijarlas evita que una
+# actualización rompa la demo (p. ej. APIs de Streamlit que se retiran).
+streamlit==1.65.0
+openai==3.27.0
+python-dotenv==1.2.4
